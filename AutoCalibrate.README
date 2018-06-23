@@ -1,0 +1,4 @@
+Works in ROOT 5.34
+
+.L AutoCalibrate.C
+AutoECalibrate(TH1D *hist, Double_t ch_1408, Double_t er_1408, string fitopt="")
